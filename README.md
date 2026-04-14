@@ -1,6 +1,7 @@
 
   # High-Converting Landing Page
 
+  This is a code bundle for High-Converting Landing Page. The original project is available at https://www.figma.com/design/N6VENFfTKSEn3JCXWcLVIa/High-Converting-Landing-Page.
 
   ## Running the code
 
