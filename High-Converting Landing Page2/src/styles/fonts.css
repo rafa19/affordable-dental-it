@@ -1,9 +1,0 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
-
-html {
-  scroll-behavior: smooth;
-}
-
-input::placeholder {
-  color: rgba(255, 255, 255, 0.5) !important;
-}
